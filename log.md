@@ -16,3 +16,12 @@
 **Thoughts:** Today I got my html basic structure completely finished. Got the card flipping functionality working. I will need to create a mechanism to check flipped cards and reset them if they are not a match or lock them in place if matched. Something will need to keep track of cards that are matches. Getting the card stack to randomize is proving tricky. I set up some basic css in order to make working on the script easier.
 
 **Link to work:** [Concentration App](https://github.com/lourod1987/concentration)
+
+
+### Day 2: May 16, 2018
+
+**Today's Progress**: Most of the logic for the concentration game is now complete. Began theming of content.
+
+**Thoughts:** Most of the JS logic now complete. A few quirks to work out. What is missing is a timer as well as pushing the congrats and  score to a modal rather then alert. For some reason I am not capturing my score content correctly (I am sure it something simple that I am overlooking).
+
+**Link to work:** [Concentration App](https://github.com/lourod1987/concentration)
