@@ -25,3 +25,12 @@
 **Thoughts:** Most of the JS logic now complete. A few quirks to work out. What is missing is a timer as well as pushing the congrats and  score to a modal rather then alert. For some reason I am not capturing my score content correctly (I am sure it something simple that I am overlooking).
 
 **Link to work:** [Concentration App](https://github.com/lourod1987/concentration)
+
+
+### Day 3: May 17, 2018
+
+**Today's Progress**: I worked on css animations, fixed several code css & js issues, and worked on artwork for the project.
+
+**Thoughts:** I fixed the move counter today. Got new animations working and fixed some other ones to function as intended. Made a few additional css and JS code fixes. I spent a lot of time working on art for the project today. I got my hour of code work in but feel like I could have done more.
+
+**Link to work:** [Concentration App](https://github.com/lourod1987/concentration)
