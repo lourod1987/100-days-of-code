@@ -34,3 +34,12 @@
 **Thoughts:** I fixed the move counter today. Got new animations working and fixed some other ones to function as intended. Made a few additional css and JS code fixes. I spent a lot of time working on art for the project today. I got my hour of code work in but feel like I could have done more.
 
 **Link to work:** [Concentration App](https://github.com/lourod1987/concentration)
+
+
+### Day 4: May 18, 2018
+
+**Today's Progress**: I attempted a to fix a few issues with my code today, ran into a lot of dead ends.
+
+**Thoughts:** I was attempting to fix several issues before I moved onto implementing the missing features. One fix I was attempting was to add empty stars after I remove full ones when the score decreases. Except I kept adding the empty stars infinitely. I figured out why that was happening and a solution to remedy the issue. I will have to restructure how the scoreCheck function operates. Today was a day of dead ends. I leanred for sure..
+
+**Link to work:** [Concentration App](https://github.com/lourod1987/concentration)
