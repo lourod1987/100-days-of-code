@@ -40,6 +40,24 @@
 
 **Today's Progress**: I attempted a to fix a few issues with my code today, ran into a lot of dead ends.
 
-**Thoughts:** I was attempting to fix several issues before I moved onto implementing the missing features. One fix I was attempting was to add empty stars after I remove full ones when the score decreases. Except I kept adding the empty stars infinitely. I figured out why that was happening and a solution to remedy the issue. I will have to restructure how the scoreCheck function operates. Today was a day of dead ends. I leanred for sure..
+**Thoughts:** I was attempting to fix several issues before I moved onto implementing the missing features. One fix I was attempting was to add empty stars after I remove full ones when the score decreases. Except I kept adding the empty stars infinitely. I figured out why that was happening and a solution to remedy the issue. I will have to restructure how the scoreCheck function operates. Today was a day of dead ends. I learned for sure.
+
+**Link to work:** [Concentration App](https://github.com/lourod1987/concentration)
+
+
+### Day 5: May 19, 2018
+
+**Today's Progress**: I was at a hackathon but did not get any coding in :(.
+
+**Thoughts:** I was at hackathon and unfortunately for me my group decided to focus on solely idea development and not prototyping a working tech solution for the problem for which we had already created a rough blueprint of the requirements. I was too burned out when I got home to do anything but a few cli heroku tutorials.
+
+**Link to work:** N/A
+
+### Day 6: May 20, 2018
+
+
+**Today's Progress**: I began working on the timer for my card game, as well attempting to improve how my win condition is checked.
+
+**Thoughts:** I'll have to make tradeoffs for performance versus how I want the win condition to trigger. Previously I have the function for checking the win conding running on an interval which allowed the final two correct cards to be filled with color and animated before the win alert popped up. Now I have the win check condition being called only when the two cards are properly matched but no anim or color fill. The timer work has just begun. I believe I have everything I'll need to have it function but I will need to test it tomorrow.
 
 **Link to work:** [Concentration App](https://github.com/lourod1987/concentration)
