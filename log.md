@@ -53,11 +53,20 @@
 
 **Link to work:** N/A
 
-### Day 6: May 20, 2018
 
+### Day 6: May 20, 2018
 
 **Today's Progress**: I began working on the timer for my card game, as well attempting to improve how my win condition is checked.
 
 **Thoughts:** I'll have to make tradeoffs for performance versus how I want the win condition to trigger. Previously I have the function for checking the win conding running on an interval which allowed the final two correct cards to be filled with color and animated before the win alert popped up. Now I have the win check condition being called only when the two cards are properly matched but no anim or color fill. The timer work has just begun. I believe I have everything I'll need to have it function but I will need to test it tomorrow.
+
+**Link to work:** [Concentration App](https://github.com/lourod1987/concentration)
+
+
+### Day 7: May 21, 2018
+
+**Today's Progress**: Timer completed. Modal implemented with final time displayed on it and also finally got the score to push correctly onto the win state!
+
+**Thoughts:** I am pumped! I got the timer fully functional. With the score coming up on the win state. Modal has been implemented. Code cleanup, css adjustments, finalizing presentation, and art are what remain for the project now. After those are done I will cook up, plan, and implement additional features.
 
 **Link to work:** [Concentration App](https://github.com/lourod1987/concentration)
