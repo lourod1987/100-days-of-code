@@ -70,3 +70,12 @@
 **Thoughts:** I am pumped! I got the timer fully functional. With the score coming up on the win state. Modal has been implemented. Code cleanup, css adjustments, finalizing presentation, and art are what remain for the project now. After those are done I will cook up, plan, and implement additional features.
 
 **Link to work:** [Concentration App](https://github.com/lourod1987/concentration)
+
+
+### Day 8: May 22, 2018
+
+**Today's Progress**: Worked on issues related with modal in both js and css. Made some changes to html for modal.
+
+**Thoughts:** Getting the modal to style as I wanted proved to be more time consuming then I thought it would. Fixed some JS modal output issues as well. Now that I have everything where I want it, I need to finalize presentation (css styles) and go back over JavaScript code and refactor for performance/readability (organization and structure).
+
+**Link to work:** [Concentration App](https://github.com/lourod1987/concentration)
