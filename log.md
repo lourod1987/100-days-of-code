@@ -79,3 +79,12 @@
 **Thoughts:** Getting the modal to style as I wanted proved to be more time consuming then I thought it would. Fixed some JS modal output issues as well. Now that I have everything where I want it, I need to finalize presentation (css styles) and go back over JavaScript code and refactor for performance/readability (organization and structure).
 
 **Link to work:** [Concentration App](https://github.com/lourod1987/concentration)
+
+
+### Day 9: May 23, 2018
+
+**Today's Progress**: CSS Presentation work is completed along with some presentation modifications done through JS.
+
+**Thoughts:** I finished the presentation work I wanted to and the project finally has the cohesive look I was aiming for. Their is some tinkering I want to do but it is overall done. I was about to start refactoring my code for performance/readability when I was testing and run into an annoying win state bug. I've been pounding my head against it for nearly two hours. Definitely time to take a break. When I do manage to iron out the win state kink, I'll move on to refactoring and responsiveness for the Concentration game.
+
+**Link to work:** [Concentration App](https://github.com/lourod1987/concentration)
