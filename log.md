@@ -88,3 +88,12 @@
 **Thoughts:** I finished the presentation work I wanted to and the project finally has the cohesive look I was aiming for. Their is some tinkering I want to do but it is overall done. I was about to start refactoring my code for performance/readability when I was testing and run into an annoying win state bug. I've been pounding my head against it for nearly two hours. Definitely time to take a break. When I do manage to iron out the win state kink, I'll move on to refactoring and responsiveness for the Concentration game.
 
 **Link to work:** [Concentration App](https://github.com/lourod1987/concentration)
+
+
+### Day 10: May 24, 2018
+
+**Today's Progress**: Fixed win state bug. Added audio, audio calls, mute/sound icon, and funcionality for mute/sound. Fixed scaling issues with svg files. Began testing for performance issues.
+
+**Thoughts:** Today I felt my project come together. Felt like all the pieces finally fit. I shared out my project on my live site so others could play and test theh game. I knocked out the win state bug by working on other stuff for the game while I felt stuck. This helped me think of a way to simplify what I doing which cleared the bug! There are performance issues on the Chrome and Brave browsers. Not to mention I am sure I can improve the overall performance of my project in general. I will work toward that tomorrow. Also still some other issues/trivial presentation things I want to get done. 
+
+**Link to work:** [Concentration App](https://github.com/lourod1987/concentration)
