@@ -97,3 +97,12 @@
 **Thoughts:** Today I felt my project come together. Felt like all the pieces finally fit. I shared out my project on my live site so others could play and test theh game. I knocked out the win state bug by working on other stuff for the game while I felt stuck. This helped me think of a way to simplify what I doing which cleared the bug! There are performance issues on the Chrome and Brave browsers. Not to mention I am sure I can improve the overall performance of my project in general. I will work toward that tomorrow. Also still some other issues/trivial presentation things I want to get done. 
 
 **Link to work:** [Concentration App](https://github.com/lourod1987/concentration)
+
+
+### Day 11: May 25, 2018
+
+**Today's Progress**: Added a few additional audio cues. Reduced svg file sizes down to a third total of what they were. Added in an empty star and improved the condition on which you lose stars. Fixed a win state bug where you could lose a star but still get the 5 star win state screen. Player can no longer click more then two cards at a time. Improved code readability and performance.
+
+**Thoughts:** Today I did a lot more then I thought I would. I am really happy with the progress made. The performance and readability changes I made today go a long way to making the project ready to turn in. Their are still some performance enhancements that can be done to scale down system/browser cost. I am aiming to finish what's left of performance changes tomorrow. As well as knock out some responsive sizing. Also I can't believe I've spent nearly 2 weeks on this project, time flew. There have been challenges but I've learned a lot and it has been fun.
+
+**Link to work:** [Concentration App](https://github.com/lourod1987/concentration)
