@@ -101,7 +101,7 @@
 
 ### Day 11: May 25, 2018
 
-**Today's Progress**: Added a few additional audio cues. Reduced svg file sizes down to a third total of what they were. Added in an empty star and improved the condition on which you lose stars. Fixed a win state bug where you could lose a star but still get the 5 star win state screen. Player can no longer click more then two cards at a time. Improved code readability and performance.
+**Today's Progress**: Added a few additional audio cues. Reduced svg file sizes down to a third total of what they were. Added in an empty star and improved the condition on which you lose stars. Fixed a win state bug where you could lose a star but still get the 5 star win state screen. Player can no longer click more then two cards at a time. Improved code readability and performance. Presentational improvements on modal win screen.
 
 **Thoughts:** Today I did a lot more then I thought I would. I am really happy with the progress made. The performance and readability changes I made today go a long way to making the project ready to turn in. Their are still some performance enhancements that can be done to scale down system/browser cost. I am aiming to finish what's left of performance changes tomorrow. As well as knock out some responsive sizing. Also I can't believe I've spent nearly 2 weeks on this project, time flew. There have been challenges but I've learned a lot and it has been fun.
 
