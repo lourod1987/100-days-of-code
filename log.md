@@ -106,3 +106,12 @@
 **Thoughts:** Today I did a lot more then I thought I would. I am really happy with the progress made. The performance and readability changes I made today go a long way to making the project ready to turn in. Their are still some performance enhancements that can be done to scale down system/browser cost. I am aiming to finish what's left of performance changes tomorrow. As well as knock out some responsive sizing. Also I can't believe I've spent nearly 2 weeks on this project, time flew. There have been challenges but I've learned a lot and it has been fun.
 
 **Link to work:** [Concentration App](https://github.com/lourod1987/concentration)
+
+
+### Day 12: May 26, 2018
+
+**Today's Progress**: Tested additional performance improvements. Updated live site with latest code. In progress for responsive design.
+
+**Thoughts:** Today was a little tough because a lot of the ideas and code I attempted ended in a wall of I can't get this to work. I will finish the responsive set up tomorrow and submit the project finally! So close.
+
+**Link to work:** [Concentration App](https://github.com/lourod1987/concentration)
