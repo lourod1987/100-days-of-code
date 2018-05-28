@@ -115,3 +115,12 @@
 **Thoughts:** Today was a little tough because a lot of the ideas and code I attempted ended in a wall of I can't get this to work. I will finish the responsive set up tomorrow and submit the project finally! So close.
 
 **Link to work:** [Concentration App](https://github.com/lourod1987/concentration)
+
+
+### Day 13: May 27, 2018
+
+**Today's Progress**: Additional performance improvements implemented today. Redid a lot of the css for primary content displayed which reduced overall code needed for responsive implementation using media queries.
+
+**Thoughts:** Spent time improving JS and redoing quite a bit of CSS. It always annoys me how it will take me a little while for what I am doing in CSS to click but once it does it floods back in and I accomplish a lot of good screen fluid code relatively quickly. Project looks ready to submit. I will give it a once over with a fresh pair of eyes tomorrow and then submit it, finally. So a day later then planned but I can definitely say that v1.0 of this project is complete!
+
+**Link to work:** [Concentration App](https://github.com/lourod1987/concentration)
