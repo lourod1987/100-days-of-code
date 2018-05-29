@@ -124,3 +124,13 @@
 **Thoughts:** Spent time improving JS and redoing quite a bit of CSS. It always annoys me how it will take me a little while for what I am doing in CSS to click but once it does it floods back in and I accomplish a lot of good screen fluid code relatively quickly. Project looks ready to submit. I will give it a once over with a fresh pair of eyes tomorrow and then submit it, finally. So a day later then planned but I can definitely say that v1.0 of this project is complete!
 
 **Link to work:** [Concentration App](https://github.com/lourod1987/concentration)
+
+
+
+### Day 14: May 28, 2018
+
+**Today's Progress**: A few css adjustments. Commenting and styling JS code. Finished editing README and added some to do's to the planning md. 
+
+**Thoughts:** Spent a lot of time making little css tweaks to improve the presentation of the concentration game. Added comments and made style corrections in JS. All of it took longer then expected. My project is submitted finally. I have that sense that it isn't good enough and I could make it better in a million and one ways. 
+
+**Link to work:** [Concentration App](https://github.com/lourod1987/concentration)
