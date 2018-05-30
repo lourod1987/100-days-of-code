@@ -134,3 +134,13 @@
 **Thoughts:** Spent a lot of time making little css tweaks to improve the presentation of the concentration game. Added comments and made style corrections in JS. All of it took longer then expected. My project is submitted finally. I have that sense that it isn't good enough and I could make it better in a million and one ways. 
 
 **Link to work:** [Concentration App](https://github.com/lourod1987/concentration)
+
+
+### Day 15: May 29, 2018
+
+**Today's Progress**: Today I did some quick fixes based on my project review to improve my concentration project just a bit more. One of which was a super helpful performance fix. I also built out a messanging app using Node.js.
+
+**Thoughts:** Passing my project review and the performance improvement were an exciting way to start my day. Which I followed up by learning Node.js through building a messaging app. It was a ton of fun to unite front end and back end knowledge through the process. Still have bit more to go before the project is complete.
+
+**Link to work:** [Node Messenger App](https://github.com/lourod1987/nodejs-messenger)
+
