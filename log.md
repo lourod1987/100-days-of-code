@@ -144,3 +144,11 @@
 
 **Link to work:** [Node Messenger App](https://github.com/lourod1987/nodejs-messenger)
 
+
+### Day 16: May 30, 2018
+
+**Today's Progress**: Did some code debugging to help out a fellow coder. Worked with more node.js to finish up the messenger app. Coding callbacks, async/awaits, try/catch, and debugger. Working through some Jasmine practice as well. 
+
+**Thoughts:** It was a mixed bag day of coding tasks. I did not get to do some of the stuff I wanted but got a variety of practice in and helped out, so it's a win in my book.
+
+**Link to work:** [Node Messenger App](https://github.com/lourod1987/nodejs-messenger)
