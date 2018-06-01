@@ -152,3 +152,12 @@
 **Thoughts:** It was a mixed bag day of coding tasks. I did not get to do some of the stuff I wanted but got a variety of practice in and helped out, so it's a win in my book.
 
 **Link to work:** [Node Messenger App](https://github.com/lourod1987/nodejs-messenger)
+
+
+### Day 17: May 31, 2018
+
+**Today's Progress**: Finished up the messenger app with some Jasmine testing practice. Started working on getting the leaderboards implemented into the concentration game.
+
+**Thoughts:** I had a lot of fun working through the node.js messenger project and learned a lot. Still need more practice and knowledge base in order to get the leaderboards up and running. Definitely a trickier problem then I initially imagined.
+
+**Link to work:** [Node Messenger App](https://github.com/lourod1987/nodejs-messenger)
