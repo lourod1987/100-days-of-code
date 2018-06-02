@@ -161,3 +161,12 @@
 **Thoughts:** I had a lot of fun working through the node.js messenger project and learned a lot. Still need more practice and knowledge base in order to get the leaderboards up and running. Definitely a trickier problem then I initially imagined.
 
 **Link to work:** [Node Messenger App](https://github.com/lourod1987/nodejs-messenger)
+
+
+### Day 18: June 01, 2018
+
+**Today's Progress**: I read up on ECMA Script 2017. Fixed some layout issues with my portfolio. Tested out ways to get my leaderboard up and running.
+
+**Thoughts:** I was definitely feeling the fatigue today. I oriented myself to do various other things with code like reading and watching some tutorials. Still managed to get some commits done today. Tomorrow I will refocus and work at knocking out the leaderboards again.
+
+**Link to work:** [Portfolio Site](https://github.com/lourod1987/lourod1987.github.io)
