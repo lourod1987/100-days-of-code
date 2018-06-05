@@ -170,3 +170,12 @@
 **Thoughts:** I was definitely feeling the fatigue today. I oriented myself to do various other things with code like reading and watching some tutorials. Still managed to get some commits done today. Tomorrow I will refocus and work at knocking out the leaderboards again.
 
 **Link to work:** [Portfolio Site](https://github.com/lourod1987/lourod1987.github.io)
+
+
+### Day 19: June 04, 2018
+
+**Today's Progress**: I knocked out some coding challenges on the Learn.co platform. Great refreshers and a few new concepts that took me a little time to solve.
+
+**Thoughts:** I was feeling the burnout severley and needed a break for the past two days but I knocked out some coding challenges on the learn.co platform in preparation for a technical interview for possibly another scholarship. Most of it was just fun practice but a few new concepts were fun to tackle. Additionally although I mostly took a break yesterday as well. I did pop on to assist a fellow coder with understanding some concepts about functions and gave resources for learning tools to problem solve.
+
+**Link to work:** [Learn.co Challenges](https://github.com/lourod1987/js-beatles-loops-lab-js-apply-000)
