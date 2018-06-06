@@ -179,3 +179,12 @@
 **Thoughts:** I was feeling the burnout severley and needed a break for the past two days but I knocked out some coding challenges on the learn.co platform in preparation for a technical interview for possibly another scholarship. Most of it was just fun practice but a few new concepts were fun to tackle. Additionally although I mostly took a break yesterday as well. I did pop on to assist a fellow coder with understanding some concepts about functions and gave resources for learning tools to problem solve.
 
 **Link to work:** [Learn.co Challenges](https://github.com/lourod1987/js-beatles-loops-lab-js-apply-000)
+
+
+### Day 20: June 05, 2018
+
+**Today's Progress**: Completed the final challenge on Learn.co for the technical interview.
+
+**Thoughts:** The final challenge took a little longer then the rest. It was a fun challenge to think through and code. I am happy with my end solution and it reads pretty clean.
+
+**Link to work:** [Learn.co - Deli Counter Challenge](https://github.com/lourod1987/js-deli-counter-js-apply-000/blob/master/index.js)
