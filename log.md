@@ -188,3 +188,12 @@
 **Thoughts:** The final challenge took a little longer then the rest. It was a fun challenge to think through and code. I am happy with my end solution and it reads pretty clean.
 
 **Link to work:** [Learn.co - Deli Counter Challenge](https://github.com/lourod1987/js-deli-counter-js-apply-000/blob/master/index.js)
+
+
+### Day 21: June 06, 2018
+
+**Today's Progress**: Today I worked on HTML, CSS, and JavaScript code as practice through FreeCodeCamp lessons.
+
+**Thoughts:** I needed to take a break from back-end so I've been working through challenges in freecodecamp and doing lessons in my Udacity front-end nanodegree program.
+
+**Link to work:** [No Link today]()
