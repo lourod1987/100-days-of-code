@@ -196,4 +196,13 @@
 
 **Thoughts:** I needed to take a break from back-end so I've been working through challenges in freecodecamp and doing lessons in my Udacity front-end nanodegree program.
 
-**Link to work:** [No Link today]()
+**Link to work:** []()
+
+
+### Day 22: June 07, 2018
+
+**Today's Progress**: JavaScript objects coding and refreshers.
+
+**Thoughts:** Today I practiced a lot with JavaScript objects. Some of the content took a little while to click but once it does the coding exercises become easier.
+
+**Link to work:** []()
