@@ -206,3 +206,12 @@
 **Thoughts:** Today I practiced a lot with JavaScript objects. Some of the content took a little while to click but once it does the coding exercises become easier.
 
 **Link to work:** []()
+
+
+### Day 23: June 08, 2018
+
+**Today's Progress**: JavaScript do while loop, pushing odd numbers into an array, iterating over multi-dimensional arrays, and solving an objects coding challenge.
+
+**Thoughts:** Had a lot of fun doing the various exercises on freecodecamp. It is great to practice concepts through problems and I'm excited to keep at it.
+
+**Link to work:** []()
