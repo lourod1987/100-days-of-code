@@ -215,3 +215,12 @@
 **Thoughts:** Had a lot of fun doing the various exercises on freecodecamp. It is great to practice concepts through problems and I'm excited to keep at it.
 
 **Link to work:** []()
+
+
+### Day 24: June 11, 2018
+
+**Today's Progress**: JavaScript parseInt, conditional ternary operator, and css practice.
+
+**Thoughts:** Not easy to get back started today but I am looking forward to getting back into a solid rythm of coding again.
+
+**Link to work:** []()
