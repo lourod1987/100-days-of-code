@@ -224,3 +224,12 @@
 **Thoughts:** Not easy to get back started today but I am looking forward to getting back into a solid rythm of coding again.
 
 **Link to work:** []()
+
+
+### Day 25: June 12, 2018
+
+**Today's Progress**: JavaScript ES6 and css practice.
+
+**Thoughts:** Learned how to make a heart using css today. Really cool, has given me ideas for how to use css in alternate ways such as tool tips. I can hide elements with a specific class name and on hover reveal the tool tip for each element with that class. 
+
+**Link to work:** []()
