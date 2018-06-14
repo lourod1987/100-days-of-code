@@ -233,3 +233,12 @@
 **Thoughts:** Learned how to make a heart using css today. Really cool, has given me ideas for how to use css in alternate ways such as tool tips. I can hide elements with a specific class name and on hover reveal the tool tip for each element with that class. 
 
 **Link to work:** []()
+
+
+### Day 26: June 13, 2018
+
+**Today's Progress**: JS ES6 practice. Map and filter functions, rest, and spread practice as well.
+
+**Thoughts:** Getting a hang of some of the concepts I've struggled with was really rewarding today. It is crazy how much there is to learn and practice.
+
+**Link to work:** []()
