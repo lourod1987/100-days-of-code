@@ -242,3 +242,12 @@
 **Thoughts:** Getting a hang of some of the concepts I've struggled with was really rewarding today. It is crazy how much there is to learn and practice.
 
 **Link to work:** []()
+
+
+### Day 27: June 14, 2018
+
+**Today's Progress**: JS ES6 practice including template literals and destructuring objects.
+
+**Thoughts:** For some reason object exercises and practice keeps stumping me. I know eventually it will click but it is like running into a brick wall.
+
+**Link to work:** []()
