@@ -251,3 +251,12 @@
 **Thoughts:** For some reason object exercises and practice keeps stumping me. I know eventually it will click but it is like running into a brick wall.
 
 **Link to work:** []()
+
+
+### Day 28: June 15, 2018
+
+**Today's Progress**: JS ES6, finished up destructuring objects practice and started on CRP project.
+
+**Thoughts:** It was a busy day today and was hard to commit the time but I still went for it anyways and got an hour of work in. Tomorrow hopefully I can work out a lot more programming in. I have a lot I would like to get done within the next week.
+x
+**Link to work:** []()
