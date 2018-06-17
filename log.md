@@ -262,7 +262,7 @@
 **Link to work:** []()
 
 
-### Day 28: June 15, 2018
+### Day 29: June 16, 2018
 
 **Today's Progress**: JS ES6 exercises completed, A11y intro lesson is done.
 
