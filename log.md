@@ -269,3 +269,12 @@
 **Thoughts:** Bit by bit I am making progress. Feels like I can't move fast enough.
 
 **Link to work:** []()
+
+
+### Day 30: June 17, 2018
+
+**Today's Progress**: Finally solved a profile lookup problem that had been giving me trouble. Finished a template string problem. I had the correct output but my solution was different then required for the exercise.
+
+**Thoughts:** It always annoys me a bit when I'm required to solve a problem in only a single way. Glad I still managed to get some coding done even though it was father's day. I'm planning on starting a repository for all the problems I solve in freecodecamp so I can have a record of my solutions since none of the work gets saved into freecodecamp.
+
+**Link to work:** []()
