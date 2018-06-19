@@ -278,3 +278,12 @@
 **Thoughts:** It always annoys me a bit when I'm required to solve a problem in only a single way. Glad I still managed to get some coding done even though it was father's day. I'm planning on starting a repository for all the problems I solve in freecodecamp so I can have a record of my solutions since none of the work gets saved into freecodecamp.
 
 **Link to work:** []()
+
+
+### Day 31: June 18, 2018
+
+**Today's Progress**: CSS exercises. Learned how bezeir curves work in CSS and how to effectively use them.
+
+**Thoughts:** More code work completed in freecodecamp.
+
+**Link to work:** []()
