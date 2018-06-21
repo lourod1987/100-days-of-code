@@ -287,3 +287,12 @@
 **Thoughts:** More code work completed in freecodecamp.
 
 **Link to work:** []()
+
+
+### Day 32: June 20, 2018
+
+**Today's Progress**: HTML/CSS/JavaScript a11y exercises and practice.
+
+**Thoughts:** More code work completed in freecodecamp.
+
+**Link to work:** [FEND Nano Coursework](https://github.com/lourod1987/GwG_FEND_Nano/tree/master/ud891)
