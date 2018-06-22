@@ -302,6 +302,6 @@
 
 **Today's Progress**: A11y lessons and did some practice with HTML/CSS/JavaScript.
 
-**Thoughts:** More code work completed in freecodecamp.
+**Thoughts:** More code work completed in freecodecamp and Udacity FEND program. Knocked out quite a bit of work today. Definitely proud of myself. Feel like I'm seeing the light out of this burnout tunnel I've been slogging through.
 
 **Link to work:** []()
