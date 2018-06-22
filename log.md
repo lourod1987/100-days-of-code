@@ -296,3 +296,12 @@
 **Thoughts:** More code work completed in freecodecamp.
 
 **Link to work:** [FEND Nano Coursework](https://github.com/lourod1987/GwG_FEND_Nano/tree/master/ud891)
+
+
+### Day 33: June 21, 2018
+
+**Today's Progress**: A11y lessons and did some practice with HTML/CSS/JavaScript.
+
+**Thoughts:** More code work completed in freecodecamp.
+
+**Link to work:** []()
