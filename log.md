@@ -305,3 +305,12 @@
 **Thoughts:** More code work completed in freecodecamp and Udacity FEND program. Knocked out quite a bit of work today. Definitely proud of myself. Feel like I'm seeing the light out of this burnout tunnel I've been slogging through.
 
 **Link to work:** []()
+
+
+### Day 34: June 22, 2018
+
+**Today's Progress**: A11y lessons and practice with HTML/CSS/JavaScript.
+
+**Thoughts:** Nowhere near the amount of work done today that I wanted to get to but it is a good sign that I am feeling motivated to get back at it.
+
+**Link to work:** []()
