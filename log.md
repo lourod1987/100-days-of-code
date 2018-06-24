@@ -314,3 +314,12 @@
 **Thoughts:** Nowhere near the amount of work done today that I wanted to get to but it is a good sign that I am feeling motivated to get back at it.
 
 **Link to work:** []()
+
+
+### Day 35: June 23, 2018
+
+**Today's Progress**: Finished up the freecodecamp accessibility section. Mostly html code with some css.
+
+**Thoughts:** Productive and fun meetup today with fellow #Udacity scholars.  Excited to get more done tomorrow. Definitely out of the burnout hole I was stuck in.
+
+**Link to work:** []()
