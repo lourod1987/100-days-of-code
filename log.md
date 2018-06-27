@@ -323,3 +323,12 @@
 **Thoughts:** Productive and fun meetup today with fellow #Udacity scholars.  Excited to get more done tomorrow. Definitely out of the burnout hole I was stuck in.
 
 **Link to work:** []()
+
+
+### Day 36: June 26, 2018
+
+**Today's Progress**:  Responsive and flexbox practice in. Object practice and reading. HTML, CSS, JS work.
+
+**Thoughts:** Had a busy past two days but glad to get some more done today. Soon I'll be on my to completing a lot more daily which is exciting.
+
+**Link to work:** []()
