@@ -332,3 +332,12 @@
 **Thoughts:** Had a busy past two days but glad to get some more done today. Soon I'll be on my to completing a lot more daily which is exciting.
 
 **Link to work:** []()
+
+
+### Day 37: June 27, 2018
+
+**Today's Progress**:  Array exercises. Lessons and coding practice with Objects, Functions, methods, callbacks, and solved some tricky map and filter problems with arrays that objects within them.
+
+**Thoughts:** My pace is picking up. Excited to see what I can done tomorrow. Aiming to get to the next project by tomorrow but we'll see what I can actually get done.
+
+**Link to work:** []()
