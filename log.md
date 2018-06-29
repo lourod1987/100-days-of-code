@@ -341,3 +341,12 @@
 **Thoughts:** My pace is picking up. Excited to see what I can done tomorrow. Aiming to get to the next project by tomorrow but we'll see what I can actually get done.
 
 **Link to work:** []()
+
+
+### Day 38: June 29, 2018
+
+**Today's Progress**: Flexbox exercises. Studied lexical scope, closures, immediately invoked function expressions with some practice mixed in. Finished up with some array practice.
+
+**Thoughts:** Got a lot done today. Definitely not all that I hoped to accomplish but I am making steady progress. The progress includes improvement in my work completion pace and understand of content.
+
+**Link to work:** []()
