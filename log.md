@@ -343,7 +343,7 @@
 **Link to work:** []()
 
 
-### Day 38: June 29, 2018
+### Day 38: June 28, 2018
 
 **Today's Progress**: Flexbox exercises. Studied lexical scope, closures, immediately invoked function expressions with some practice mixed in. Finished up with some array practice.
 
