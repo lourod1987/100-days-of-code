@@ -350,3 +350,21 @@
 **Thoughts:** Got a lot done today. Definitely not all that I hoped to accomplish but I am making steady progress. The progress includes improvement in my work completion pace and understand of content.
 
 **Link to work:** []()
+
+
+### Day 39: June 29, 2018
+
+**Today's Progress**: Worked on array exercises and practiced with JS objects. Specifically with contructor functions, this, and setting this for objects. For arrays I did exercises with push, unshift, pop, shift, slice and splice.
+
+**Thoughts:** Slacked a bit and I am posting this a day late. I did the work though :)
+
+**Link to work:** []()
+
+
+### Day 40: June 30, 2018
+
+**Today's Progress**: Worked on array exercises and practiced with JS objects. Specifically with prototypal inheretance for Objects. For arrays I solved problems related to spread operator, indexOf, and iterating with a for loop.
+
+**Thoughts:** Today ended being consumed by a lot of friend time so not as much work as I would've liked but it was great to connect with people I love.
+
+**Link to work:** []()
