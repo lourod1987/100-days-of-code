@@ -368,3 +368,12 @@
 **Thoughts:** Today ended being consumed by a lot of friend time so not as much work as I would've liked but it was great to connect with people I love.
 
 **Link to work:** []()
+
+
+### Day 41: July 2, 2018
+
+**Today's Progress**: I completed more Object practice and lessons. ES6 function practice and assisted a fellow coder with problem solving for a project.
+
+**Thoughts:** Got a lot done today. Even though it felt like a little. Definitely happy to be back on track with my work pace. Aiming to get to my next project within the next few days. Objects in JavaScript is a complicated topic especially since a lot of the terminology is layered it makes all reading about it very verbose. Which is cumbersome to digest as I approach some of the aspects for the first time. Granted I do feel like with all the work I've put in I now have a rich and powerful understanding and new skill to apply when I am developing my programs.
+
+**Link to work:** []()
