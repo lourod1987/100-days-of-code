@@ -377,3 +377,21 @@
 **Thoughts:** Got a lot done today. Even though it felt like a little. Definitely happy to be back on track with my work pace. Aiming to get to my next project within the next few days. Objects in JavaScript is a complicated topic especially since a lot of the terminology is layered it makes all reading about it very verbose. Which is cumbersome to digest as I approach some of the aspects for the first time. Granted I do feel like with all the work I've put in I now have a rich and powerful understanding and new skill to apply when I am developing my programs.
 
 **Link to work:** []()
+
+
+### Day 42: July 3, 2018
+
+**Today's Progress**: Worked with ES6 functions in depth (defaults, destructuring, classes, super, and extends). The ES6 functions reading and exercises gave me some insight and depth I hadn't been exposed to before. Helped my friend with a vanilla JS lab, did some problem solving to get some functionality working and help push the project forward.
+
+**Thoughts:** It seems that ever so slowly I'm improving in my ability to explain how code is running. Explain how to think of the logic. The practice is great for me but the reward of watching others understand what is going on is great.
+
+**Link to work:** []()
+
+
+### Day 43: July 4, 2018
+
+**Today's Progress**: Today I worked ES6 built-ins (symbols, iteration and iterable protocols, sets, and maps). Got a lot of studying done, though limited coding myself today.
+
+**Thoughts:** It kind of blows my mind everytime I go into these lessons and see that there is so much more I didn't yet know about JS or just JS ES6 and all of it's new and useful additions. Going over the built-ins today was immensely rewarding and I love being exposed to content I have not gotten anwywhere else.
+
+**Link to work:** []()
