@@ -395,3 +395,12 @@
 **Thoughts:** It kind of blows my mind everytime I go into these lessons and see that there is so much more I didn't yet know about JS or just JS ES6 and all of it's new and useful additions. Going over the built-ins today was immensely rewarding and I love being exposed to content I have not gotten anwywhere else.
 
 **Link to work:** []()
+
+
+### Day 44: July 5, 2018
+
+**Today's Progress**: Promises, proxies, generators, polyfills, transpiling, and canvas studies today.
+
+**Thoughts:** Not too much coding practice today but I'm cutting myself some slack since I studied a lot and needed to finish some lessons so I could begin prep for my next project. Which will definitely be a time a sink over the next few days. Then planning and execution of said project. I'm pretty pumped.
+
+**Link to work:** []()
