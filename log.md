@@ -404,3 +404,11 @@
 **Thoughts:** Not too much coding practice today but I'm cutting myself some slack since I studied a lot and needed to finish some lessons so I could begin prep for my next project. Which will definitely be a time a sink over the next few days. Then planning and execution of said project. I'm pretty pumped.
 
 **Link to work:** []()
+
+### Day 45: July 6, 2018
+
+**Today's Progress**: Built a pong game clone. Using some html (canvas mostly) and a chunk of JS.
+
+**Thoughts:** Todays project was fun and great practice. Learned quite a bit though the project took longer then I thought it would. More stuff to knock out and practice tomorrow. Huzzah!
+
+**Link to work:** [Pong Game Repo](https://github.com/lourod1987/PongGame)
