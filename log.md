@@ -421,7 +421,7 @@
 
 **Thoughts:** There is a lot of different libraries / frameworks out there that could assist me in completing my retro arcade game project. Spent a lot of time reading over a variety of docs and trying to see what my limitations would be. Honestly from what I've seen the limitations are mostly my own imagination. Looking forward to getting to work on my Galaga like retro arcade game. First though I want to complete a few more tutorials for exposure. Do some lessons to get some extra learning done. And do the frogger arcade project since it really seems like it will be easy.
 
-**Link to work:** []()
+**Link to work:** [Counting Game](https://github.com/lourod1987/CountingGame)
 
 
 ### Day 47: July 8, 2018
@@ -430,5 +430,14 @@
 
 **Thoughts:** Having some issues getting one of the methods I need out from one file into my own. One solution may be to simply copy the exported Adobe Animate code diretly into my game.js in order to get it to work properly. I really enjoy working with objects and seeing how to interconnect my work. After all my research yesterday and some today I think I will be better off working with Phaser over CreateJS for my game. While CreateJS has a lot of support and awesome tools. They are not inherently game focused and thus lack some functionality that is beneficial for my use case.
 
+**Link to work:** [Counting Game](https://github.com/lourod1987/CountingGame)
 
-**Link to work:** [Pong Game Repo](https://github.com/lourod1987/PongGame)
+
+### Day 48: July 9, 2018
+
+
+**Today's Progress**: Additional CreateJS practice through game projects and now testing out Phaser.
+
+**Thoughts:** The CreateJS video tutorials I've been using are unfortunately outdate enough to where a lot of the content does not work as shown. I've managed to get some functionality through research but I would have to do a lot of document digging or search for more recent tutorials to fix all the project content. That said I intend to finish the tutorials regardless and learn what I can about basic code layout and intended functionality of the framework. Going to complete some Phaser work first though in order to get a better understanding of the framework for my next Udacity project creation.
+
+**Link to work:** []()
