@@ -441,3 +441,12 @@
 **Thoughts:** The CreateJS video tutorials I've been using are unfortunately outdate enough to where a lot of the content does not work as shown. I've managed to get some functionality through research but I would have to do a lot of document digging or search for more recent tutorials to fix all the project content. That said I intend to finish the tutorials regardless and learn what I can about basic code layout and intended functionality of the framework. Going to complete some Phaser work first though in order to get a better understanding of the framework for my next Udacity project creation.
 
 **Link to work:** []()
+
+### Day 49: July 10, 2018
+
+
+**Today's Progress**: Completed a platformer using the Phaser framework and JS for practice. Learning the methods and objects that the framework uses to help create html5 games.
+
+**Thoughts:** Working with the framework and learning it is a lot of fun. I imagine for more complex games not having an engine/gui interface makes some tasks extremely time consuming that could be more quickly done visually. Such as placing objects, enemies, and the like on the game screen.
+
+**Link to work:** [Simple Phaser Platformer](https://github.com/lourod1987/SimplePlatformer)
