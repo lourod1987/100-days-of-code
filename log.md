@@ -442,11 +442,30 @@
 
 **Link to work:** []()
 
-### Day 49: July 10, 2018
 
+### Day 49: July 10, 2018
 
 **Today's Progress**: Completed a platformer using the Phaser framework and JS for practice. Learning the methods and objects that the framework uses to help create html5 games.
 
 **Thoughts:** Working with the framework and learning it is a lot of fun. I imagine for more complex games not having an engine/gui interface makes some tasks extremely time consuming that could be more quickly done visually. Such as placing objects, enemies, and the like on the game screen.
 
 **Link to work:** [Simple Phaser Platformer](https://github.com/lourod1987/SimplePlatformer)
+
+
+### Day 50: July 11, 2018
+
+**Today's Progress**: Additional changes to my Phaser game, assisted a fellow coder with troubleshooting, and did some array problem solving.
+
+**Thoughts:** What I've learned about Phaser so far definitely seems like it'll be fun to use to build the Galaga clone project I have in mind. I really hope that the documentation is just as good as the examples available. I tried to get a double jump to work as well and it has been frustratingly alluding me.
+
+**Link to work:** [Simple Phaser Platformer](https://github.com/lourod1987/SimplePlatformer)
+
+
+### Day 51: July 12, 2018
+
+**Today's Progress**: I built most of the core functionality of a frogger clone for a udacity project. Made awesome objects!
+
+
+**Thoughts:** I set up my objects using ES6 classes today. It made me really happy to see just how natural it all came to me. I was definitely weary considering how badly objects have tripped me up in the past but the concepts and syntax have definitely clicked. I dived in and was able to come up with solutions on the fly and naturally. Which is a sure sign that I've integrated the knowledge. Looking forward to finishing up the project. Having some tricky issues with collision detection.
+
+**Link to work:** [Frogger Clone](https://github.com/lourod1987/frontend-nanodegree-arcade-game)
