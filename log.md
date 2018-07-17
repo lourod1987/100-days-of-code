@@ -469,3 +469,42 @@
 **Thoughts:** I set up my objects using ES6 classes today. It made me really happy to see just how natural it all came to me. I was definitely weary considering how badly objects have tripped me up in the past but the concepts and syntax have definitely clicked. I dived in and was able to come up with solutions on the fly and naturally. Which is a sure sign that I've integrated the knowledge. Looking forward to finishing up the project. Having some tricky issues with collision detection.
 
 **Link to work:** [Frogger Clone](https://github.com/lourod1987/frontend-nanodegree-arcade-game)
+
+
+### Day 52: July 13, 2018
+
+**Today's Progress**: Finished up the core functionality of a frogger clone. Simple collision detection working and started working on my galaga like game on Friday.
+
+**Thoughts:** Definitely seems like I'm well on my way to completing the galaga like game I have envisioned. 
+
+**Link to work:** [Frogger Clone](https://github.com/lourod1987/frontend-nanodegree-arcade-game)
+
+
+### Day 53: July 14, 2018
+
+**Today's Progress**: I set up a basic start screen, got rocks to spawn, and bullets fired.
+
+
+**Thoughts:** Taking a lot of time to understand the methods embedded within Phaser 3. Admittedly the docs are not the friendliest to read and certainly not easy for me to understand.
+
+**Link to work:** [Final Frontier Phaser ver](https://github.com/lourod1987/Final-Frontier)
+
+
+### Day 54: July 15, 2018
+
+**Today's Progress**: I've been hacking away at my phaser galaga like game. Got some additional particle functionality to follow the player. Basic collision between the player, rocks, and bounderies. Messed around a little with MaterialJS embedded in Phaser.
+
+**Thoughts:** Beginning to find myself frustrated with the slow going process of getting the game to work in Phaser. While the docs did excite me initially. They honestly are unreadable to me. I have no idea how to accomplish anything with the way the docs are written.
+
+**Link to work:** [Final Frontier Phaser ver](https://github.com/lourod1987/Final-Frontier)
+
+
+### Day 55: July 16, 2018
+
+**Today's Progress**: Worked with Phaser a bit longer attempting to get what I wanted to work. I found myself unable to figure out how to get a change to occur on player when the player collided with an object.
+
+**Thoughts:** Admittedly today I found myself kind of stumped and realized that my turn around time would be too long for when I want to have this done by 😕 Definitely feeling stumped. After all my trial and error and the slow pace I've been going at I realized I'm kind of stuck and more importantly that building out the game with classes in phaser is a bit a of stretch. I'd be better able to do that with the engine provided by Udacity. I swapped over and have quite a bit done already. I'm about where I was with Phaser. Going to see if I can use MatterJS for physics and possibly as the entire engine. So far the documentation is a lot more readable.
+
+**Link to work:** [Final Frontier ver2](https://github.com/lourod1987/Final-Frontierv2)
+
+
