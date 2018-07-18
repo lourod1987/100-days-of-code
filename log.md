@@ -501,10 +501,18 @@
 
 ### Day 55: July 16, 2018
 
-**Today's Progress**: Worked with Phaser a bit longer attempting to get what I wanted to work. I found myself unable to figure out how to get a change to occur on player when the player collided with an object.
+**Today's Progress**: Worked with Phaser a bit longer attempting to get what I wanted to work. I found myself unable to figure out how to get a change to occur on player when the player collided with an object. I began working anew using the Udacity game engine provided to get my game project working using their game engine. Nearly at the same point I was with Phaser version of the project.
 
 **Thoughts:** Admittedly today I found myself kind of stumped and realized that my turn around time would be too long for when I want to have this done by 😕 Definitely feeling stumped. After all my trial and error and the slow pace I've been going at I realized I'm kind of stuck and more importantly that building out the game with classes in phaser is a bit a of stretch. I'd be better able to do that with the engine provided by Udacity. I swapped over and have quite a bit done already. I'm about where I was with Phaser. Going to see if I can use MatterJS for physics and possibly as the entire engine. So far the documentation is a lot more readable.
 
 **Link to work:** [Final Frontier ver2](https://github.com/lourod1987/Final-Frontierv2)
 
+
+### Day 56: July 17, 2018
+
+**Today's Progress**: Today I did a lot of work with objects and functions for my galaga like game titled Final Frontier. I got player and enemy collision working, bullet collision, enemy and bullet removal on hit, screen scrolling, score increase for player. More to come.
+
+**Thoughts:**  I definitely knocked out a lot of stuff today. Some of it was a little tedious to figure out and test but I'm really happy I was able to knock out a lot of my project goals successfully today. I have some more challenges ahead that may require some rework of the core engine but I'll be hard at work to get everything set up properly.
+
+**Link to work:** [Final Frontier ver2](https://github.com/lourod1987/Final-Frontierv2)
 
