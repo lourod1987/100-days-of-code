@@ -516,3 +516,11 @@
 
 **Link to work:** [Final Frontier ver2](https://github.com/lourod1987/Final-Frontierv2)
 
+
+### Day 57: July 18, 2018
+
+**Today's Progress**: Worked through a tutorial for Coco's Creator, a 2D Game Engine with some TypeScript. Got some UI elements and text created for my Final Frontier game. Enemy and Player units now repel each other on collision. Working on getting the score text to update correctly.
+
+**Thoughts:**  Even though it is taking time to get everything I want accomplished for the game it is coming along, piece by piece. I'm excited to get it done now. Really what's big that is missing is game states such as start/title screen, game (levels), win state, lose state, credits (possibly).
+
+**Link to work:** [Final Frontier ver2](https://github.com/lourod1987/Final-Frontierv2)
