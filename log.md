@@ -524,3 +524,12 @@
 **Thoughts:**  Even though it is taking time to get everything I want accomplished for the game it is coming along, piece by piece. I'm excited to get it done now. Really what's big that is missing is game states such as start/title screen, game (levels), win state, lose state, credits (possibly).
 
 **Link to work:** [Final Frontier ver2](https://github.com/lourod1987/Final-Frontierv2)
+
+
+### Day 58: July 19, 2018
+
+**Today's Progress**: Score text updates, a timer renders and updates, game loss condition triggers, roughed out some enemy x movement, and enemy spawning patterns.
+
+**Thoughts:** Knocked out some more in my game project. Definitely slammed head first into a lot of ideas that did not work. Spent an infuriating amount of time attempting to implement a lot of ideas that went nowhere and a few that actually had simple solutions. Definitely makes me feel like I know nothing. On the other hand I am learning a ton from my failures.
+
+**Link to work:** [Final Frontier ver2](https://github.com/lourod1987/Final-Frontierv2)
