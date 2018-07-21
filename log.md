@@ -533,3 +533,12 @@
 **Thoughts:** Knocked out some more in my game project. Definitely slammed head first into a lot of ideas that did not work. Spent an infuriating amount of time attempting to implement a lot of ideas that went nowhere and a few that actually had simple solutions. Definitely makes me feel like I know nothing. On the other hand I am learning a ton from my failures.
 
 **Link to work:** [Final Frontier ver2](https://github.com/lourod1987/Final-Frontierv2)
+
+
+### Day 59: July 20, 2018
+
+**Today's Progress**: I reworked the base game engine to run off a function which has a switch that allows me to switch game states (start screen, gameplay, game over, etc). Fixed a flickering issue for my scrolling level, now appears seamless. Title screen works with flashing 'Press Enter' text. Game win state now works. Enemies now able to smoothly move across X axis.
+
+**Thoughts:** Today is breakthrough day. I realized that my problems were occurring because of simple mistakes. Always the little things that get me, like not passing in arguments when instantiating an object. Now I've reworked the base game engine to run off a function which has a switch that allows me to switch game states (start screen, gameplay, game over, etc). Feeling super pumped! A lot to do before Sunday's turn in deadline but I've got a lot of the base systems completed.
+
+**Link to work:** [Final Frontier ver2](https://github.com/lourod1987/Final-Frontierv2)
