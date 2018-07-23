@@ -542,3 +542,21 @@
 **Thoughts:** Today is breakthrough day. I realized that my problems were occurring because of simple mistakes. Always the little things that get me, like not passing in arguments when instantiating an object. Now I've reworked the base game engine to run off a function which has a switch that allows me to switch game states (start screen, gameplay, game over, etc). Feeling super pumped! A lot to do before Sunday's turn in deadline but I've got a lot of the base systems completed.
 
 **Link to work:** [Final Frontier ver2](https://github.com/lourod1987/Final-Frontierv2)
+
+
+### Day 60: July 21, 2018
+
+**Today's Progress**: Game over, reset, and game win states working as intended. Rewrote more of the core engine, redid classes, and overall made better code. Classes made more flexible or more specific to accomplish unique tasks.
+
+**Thoughts:** I slammed head first into one problem after another trying to get my game to work. Eventually got a lot of the problems and fixed but it was definitely a frustrating day. Got some additional art resources done for the game as well.
+
+**Link to work:** [Final Frontier ver2](https://github.com/lourod1987/Final-Frontierv2)
+
+
+### Day 61: July 22, 2018
+
+**Today's Progress**: Got an Alpha version of my game working and submitted for my Udacity retro arcade game project. Music added. Art done. Bug fixes. Helped out a fellow coder solve some problems. Worked with classes, functions, game engine creation, logic problems.
+
+**Thoughts:** Feels great to have reached an Alpha stage of the game. Still needs to fairly critical bug fixes and functionality I want for enemy units and enemy spawning but overall I'm happy and impressed with the work I've done and what I managed to create.
+
+**Link to work:** [Final Frontier ver2](https://github.com/lourod1987/Final-Frontierv2)
