@@ -560,3 +560,12 @@
 **Thoughts:** Feels great to have reached an Alpha stage of the game. Still needs to fairly critical bug fixes and functionality I want for enemy units and enemy spawning but overall I'm happy and impressed with the work I've done and what I managed to create.
 
 **Link to work:** [Final Frontier ver2](https://github.com/lourod1987/Final-Frontierv2)
+
+
+### Day 62: July 24, 2018
+
+**Today's Progress**: Finished up webtooling and automation lessons. Setup / troubleshooting gulp. Got eslint working in VSCode and with gulp. Sass files convert on save and more. Fixed an additional bug in Final Frontier. Code structure, formatting, and syntax fixes. Additionally worked to remove unnecessary files from the remote repo of final-frontier.
+
+**Thoughts:** Even though yesterday I did not code. I got a lot of studying done. Today was no different and I got some coding work done in addition. I am feeling good and getting a lot of work done with my coding. I admittedly feel way more confident in my ability to code and problem solve after all the work I put into Final Frontier. I'll need to make some additional changes to the project before I resubmit it tomorrow.
+
+**Link to work:** [Final Frontier ver2](https://github.com/lourod1987/Final-Frontierv2)
