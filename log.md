@@ -569,3 +569,11 @@
 **Thoughts:** Even though yesterday I did not code. I got a lot of studying done. Today was no different and I got some coding work done in addition. I am feeling good and getting a lot of work done with my coding. I admittedly feel way more confident in my ability to code and problem solve after all the work I put into Final Frontier. I'll need to make some additional changes to the project before I resubmit it tomorrow.
 
 **Link to work:** [Final Frontier ver2](https://github.com/lourod1987/Final-Frontierv2)
+
+### Day 63: July 25, 2018
+
+**Today's Progress**: I went back through my Final Frontier project added comments. Fixed every bug minus 1. Added some new features including enemies that shoot, score variance, and a rewriting a better code. The amount of changes are honestly too long to list.
+
+**Thoughts:** I honestly crushed it today. Definitely a productive day. I whizzed through bug fixing and implementing new bugless solutions. I felt like a wizard. Maybe I am now even if only an apprentice.
+
+**Link to work:** [Final Frontier ver2](https://github.com/lourod1987/Final-Frontierv2)
