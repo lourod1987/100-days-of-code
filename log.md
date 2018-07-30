@@ -570,6 +570,7 @@
 
 **Link to work:** [Final Frontier ver2](https://github.com/lourod1987/Final-Frontierv2)
 
+
 ### Day 63: July 25, 2018
 
 **Today's Progress**: I went back through my Final Frontier project added comments. Fixed every bug minus 1. Added some new features including enemies that shoot, score variance, and a rewriting a better code. The amount of changes are honestly too long to list.
@@ -577,3 +578,40 @@
 **Thoughts:** I honestly crushed it today. Definitely a productive day. I whizzed through bug fixing and implementing new bugless solutions. I felt like a wizard. Maybe I am now even if only an apprentice.
 
 **Link to work:** [Final Frontier ver2](https://github.com/lourod1987/Final-Frontierv2)
+
+
+### Day 64: July 26, 2018
+
+**Today's Progress**: Mix of cleaning up and commenting through my Final Frontier project. Working on setting up and testing webtooling, automation, and optimizations to my workflow. Helping out fellow coders and reading through documentation.
+
+**Thoughts:** Working through others code bases can be challenging especially when you have to pick apart their code to figure out their though patterns.
+
+**Link to work:** [Final Frontier ver2](https://github.com/lourod1987/Final-Frontierv2)
+
+
+### Day 65: July 27, 2018
+
+**Today's Progress**:  Mix of cleaning up and commenting through my Final Frontier project. Working on setting up and testing webtooling, automation, and optimizations to my workflow. Helping out fellow coders and reading through documentation.
+
+**Thoughts:** Really struggling with resolving selecting elements with vanilla javascript. It is so annoying. Really makes me want to simply give up.
+
+**Link to work:** [Final Frontier ver2](https://github.com/lourod1987/Final-Frontierv2)
+
+
+
+### Day 66: July 28, 2018
+
+**Today's Progress**: Lessons, reading, and more work on assisting a coder with some project issues. 
+
+**Thoughts:** Assisting is definitely taking more time then I thought it would. The problems with my fellow coders code feel like they are beyond my ability to solve which is super frustrating.
+
+**Link to work:** []()
+
+
+### Day 67: July 29, 2018
+
+**Today's Progress**: Knocked out some TDD lessons and got some practice in with Jasmine.
+
+**Thoughts:** Working with Jasmine was a lot of fun. I don't feel super well prepared for the next project but I am sure that between using the docs and comments on the project I should be able complete the next project with relative ease.
+
+**Link to work:** [Jasmine Practice](https://github.com/lourod1987/ud549)
