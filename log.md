@@ -615,3 +615,12 @@
 **Thoughts:** Working with Jasmine was a lot of fun. I don't feel super well prepared for the next project but I am sure that between using the docs and comments on the project I should be able complete the next project with relative ease.
 
 **Link to work:** [Jasmine Practice](https://github.com/lourod1987/ud549)
+
+
+### Day 68: August 1, 2018
+
+**Today's Progress**: Read through articles on JS object encapsulation, gzipping and minification. Dived into Jasmine documentation and got project 4 rolling with the implementation of a few more tests. The new specs pass.
+
+**Thoughts:** It's a little tricky to think about how to run tests but it is clicking quicker then I would've expected. I'm excited to wrap this project up tomorrow and keep working through lessons.
+
+**Link to work:** [Jasmine Project](https://github.com/lourod1987/feedreader-testing)
