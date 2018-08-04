@@ -624,3 +624,21 @@
 **Thoughts:** It's a little tricky to think about how to run tests but it is clicking quicker then I would've expected. I'm excited to wrap this project up tomorrow and keep working through lessons.
 
 **Link to work:** [Jasmine Project](https://github.com/lourod1987/feedreader-testing)
+
+
+### Day 69: August 2, 2018
+
+**Today's Progress**: Completed more Jasmine tests for the Feedreader app. Worked on assisting a fellow coder.
+
+**Thoughts:** Still having a hard time figuring out how to help my fellow code friend. Not sure why my mind is so mushy on code I've assisted with many times before but definitely hope to help her finish up her project soon. Knocking out the feedreader testing bit by bit.
+
+**Link to work:** [Jasmine Project](https://github.com/lourod1987/feedreader-testing)
+
+
+### Day 70: August 3, 2018
+
+**Today's Progress**: Additional reading on Jasmine and now just a test away from being done with all the specs for the Feedreader app.
+
+**Thoughts:** Just a test away from being done with the feedreader app testing. Then I just need to add comments and set up the README properly.
+
+**Link to work:** [Jasmine Project](https://github.com/lourod1987/feedreader-testing)
