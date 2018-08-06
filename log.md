@@ -642,3 +642,21 @@
 **Thoughts:** Just a test away from being done with the feedreader app testing. Then I just need to add comments and set up the README properly.
 
 **Link to work:** [Jasmine Project](https://github.com/lourod1987/feedreader-testing)
+
+
+### Day 71: August 4, 2018
+
+**Today's Progress**: Worked on solving the last test I needed to create for the feed reader app. 
+
+**Thoughts:** Getting closer. Took me a bit of experimenting but I finally followed the code to where I needed to grab my info from so I'm close. Comparison is ready just need a bit of async magic to get this set up complete.
+
+**Link to work:** [Jasmine Project](https://github.com/lourod1987/feedreader-testing)
+
+
+### Day 72: August 5, 2018
+
+**Today's Progress**: Solved the final test, added an additional test, change anon functions to arrow functions, added comments, and completed the README. Project submitted.
+
+**Thoughts:** Mission accomplished! Definitely feel victorious. It was a little tough to figure out some things in working with Jasmine but really simple once I saw the obvious. Another project down, now for some chill celebration, and then on to the next.
+
+**Link to work:** [Jasmine Project](https://github.com/lourod1987/feedreader-testing)
