@@ -660,3 +660,12 @@
 **Thoughts:** Mission accomplished! Definitely feel victorious. It was a little tough to figure out some things in working with Jasmine but really simple once I saw the obvious. Another project down, now for some chill celebration, and then on to the next.
 
 **Link to work:** [Jasmine Project](https://github.com/lourod1987/feedreader-testing)
+
+
+### Day 73: August 6, 2018
+
+**Today's Progress**: Read over my project review notes, it was a passing review. Completed accessibility lessons, dived into some git review.
+
+**Thoughts:** I didn't code myself today but I will count it as I did a lot direct source code reading today. Which certainly contributes to my learning and understanding of code as much as writing some myself.
+
+**Link to work:** []()
