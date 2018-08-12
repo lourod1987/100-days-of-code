@@ -671,7 +671,7 @@
 **Link to work:** []()
 
 
-### Day 75: August 12, 2018
+### Day 74: August 12, 2018
 
 **Today's Progress**: Working on some cat clicker practice which involved reorienting myself since I had previously started this work 5 months ago. Mostly JavaScript and DOM manipulation for the exercise.
 
