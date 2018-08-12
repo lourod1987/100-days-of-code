@@ -669,3 +669,12 @@
 **Thoughts:** I didn't code myself today but I will count it as I did a lot direct source code reading today. Which certainly contributes to my learning and understanding of code as much as writing some myself.
 
 **Link to work:** []()
+
+
+### Day 75: August 12, 2018
+
+**Today's Progress**: Working on some cat clicker practice which involved reorienting myself since I had previously started this work 5 months ago. Mostly JavaScript and DOM manipulation for the exercise.
+
+**Thoughts:** I spent time throughout the week doing some git refresher work and a reading through a bunch of code articles. The burnout was real and although I did coding related studies for a least an hour everyday throughout the week I didn't want to count days I didn't code or really work on solving / understanding problems. 
+
+**Link to work:** [Cat Clicker](https://github.com/lourod1987/cat-clicker)
