@@ -671,10 +671,19 @@
 **Link to work:** []()
 
 
-### Day 74: August 12, 2018
+### Day 74: August 11, 2018
 
 **Today's Progress**: Working on some cat clicker practice which involved reorienting myself since I had previously started this work 5 months ago. Mostly JavaScript and DOM manipulation for the exercise.
 
 **Thoughts:** I spent time throughout the week doing some git refresher work and a reading through a bunch of code articles. The burnout was real and although I did coding related studies for a least an hour everyday throughout the week I didn't want to count days I didn't code or really work on solving / understanding problems. 
+
+**Link to work:** [Cat Clicker](https://github.com/lourod1987/cat-clicker)
+
+
+### Day 75: August 12, 2018
+
+**Today's Progress**:Cat clicker refactor of original code to adhere to DRY principle is still in progress. Working with HTML and JS mostly.
+
+**Thoughts:** Gaining back my steam 🙂. A bit more done today. Slowly but surely getting back into the rhythm. It is crazy how burned out I felt last week. Want to knock out this refactor tomorrow and finish the MVC version by Tuesday at latest.
 
 **Link to work:** [Cat Clicker](https://github.com/lourod1987/cat-clicker)
