@@ -687,3 +687,12 @@
 **Thoughts:** Gaining back my steam 🙂. A bit more done today. Slowly but surely getting back into the rhythm. It is crazy how burned out I felt last week. Want to knock out this refactor tomorrow and finish the MVC version by Tuesday at latest.
 
 **Link to work:** [Cat Clicker](https://github.com/lourod1987/cat-clicker)
+
+
+### Day 76: August 14, 2018
+
+**Today's Progress**: Some more JS work done. Thumbnail selection now working appropriately.
+
+**Thoughts:** Didn't get any coding in yesterday but tonight I did. I'm getting closer to finishing the code refactor for the cat clicker. Has definitely proved trickier then I thought it would be. Came up with a few clever ideas tonight and I'm nearly done.  Just need to get the code to work correctly for image increments onn click. Then on to the MVC version. 
+
+**Link to work:** [Cat Clicker](https://github.com/lourod1987/cat-clicker)
