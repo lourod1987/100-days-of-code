@@ -696,3 +696,12 @@
 **Thoughts:** Didn't get any coding in yesterday but tonight I did. I'm getting closer to finishing the code refactor for the cat clicker. Has definitely proved trickier then I thought it would be. Came up with a few clever ideas tonight and I'm nearly done.  Just need to get the code to work correctly for image increments onn click. Then on to the MVC version. 
 
 **Link to work:** [Cat Clicker](https://github.com/lourod1987/cat-clicker)
+
+
+### Day 77: August 15, 2018
+
+**Today's Progress**:  Cat Clicker refactor is now complete. Minor HTML tweaks and JS revisions now complete, old code removed.
+
+**Thoughts:** I had all the functionality working with a single glitch early today. I solved that glitch by accident. Not really sure why. Going to look into it more and figure out why. Moving on to the Cat Clicker MVC version. I'll see what I can get done with it tonight.
+
+**Link to work:** [Cat Clicker](https://github.com/lourod1987/cat-clicker)
