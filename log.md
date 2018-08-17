@@ -705,3 +705,12 @@
 **Thoughts:** I had all the functionality working with a single glitch early today. I solved that glitch by accident. Not really sure why. Going to look into it more and figure out why. Moving on to the Cat Clicker MVC version. I'll see what I can get done with it tonight.
 
 **Link to work:** [Cat Clicker](https://github.com/lourod1987/cat-clicker)
+
+
+### Day 78: August 16, 2018
+
+**Today's Progress**: MVC Cat Clicker exercise complete. JS Object work for exercise. Additionally I studied MVC/MVVM/MVP, how frameworks work (in general), and learning about KnockoutJS.
+
+**Thoughts:** I found it straight forward to implement the MVC cat clicker and easier to read then the original. Certainly more practice on the horizon with MVC. There are several other exercises embedded in the MVC lesson that I plan on doing for more practice in the near future.
+
+**Link to work:** [Cat Clicker](https://github.com/lourod1987/cat-clicker)
