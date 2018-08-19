@@ -714,3 +714,21 @@
 **Thoughts:** I found it straight forward to implement the MVC cat clicker and easier to read then the original. Certainly more practice on the horizon with MVC. There are several other exercises embedded in the MVC lesson that I plan on doing for more practice in the near future.
 
 **Link to work:** [Cat Clicker](https://github.com/lourod1987/cat-clicker)
+
+
+### Day 79: August 17, 2018
+
+**Today's Progress**: Studied more about KnockoutJS. Did some MVC practice and slowly reworking my code.
+
+**Thoughts:** Understanding how to break down frameworks and code in style was interesting to learn about. Definitely adds a lot of professionalism and is easy to apply. 
+
+**Link to work:** [Cat Clicker](https://github.com/lourod1987/cat-clicker)
+
+
+### Day 80: August 18, 2018
+
+**Today's Progress**: Today I learned about BackboneJS. Now working through promises and doing some practice.
+
+**Thoughts:** More framework detective work and it helps me to understand how these professionally used frameworks work in order for myself to write better code.
+
+**Link to work:** [Promise Practice](https://github.com/lourod1987/practice-promises)
