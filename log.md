@@ -732,3 +732,22 @@
 **Thoughts:** More framework detective work and it helps me to understand how these professionally used frameworks work in order for myself to write better code.
 
 **Link to work:** [Promise Practice](https://github.com/lourod1987/practice-promises)
+
+
+
+### Day 81: August 19, 2018
+
+**Today's Progress**: More promise lessons and practice.
+
+**Thoughts:** It is crazy how frustrating it is to get stuck because a lessons content is out of date and the libraries no longer work with the current setup of a project / repo. I did manage to get some practice following along with the lessons but it was near impossible to do exercises on my own as I could not follow my output to learn properly by testing my code to see what I was doing incorrectly.
+
+**Link to work:** [Promise Practice](https://github.com/lourod1987/practice-promises)
+
+
+### Day 82: August 20, 2018
+
+**Today's Progress**: I worked with chaining promises catching errors and moved onto AJAX lessons.
+
+**Thoughts:** Learning AJAX has me excited and my mind is starting to storm ideas for additions to my portfolio, future projects, and client work.
+
+**Link to work:** [Promise Practice](https://github.com/lourod1987/practice-promises)
