@@ -751,3 +751,13 @@
 **Thoughts:** Learning AJAX has me excited and my mind is starting to storm ideas for additions to my portfolio, future projects, and client work.
 
 **Link to work:** [Promise Practice](https://github.com/lourod1987/practice-promises)
+
+
+### Day 83: August 21, 2018
+
+**Today's Progress**: Ajax practice with XMLHttpRequest object. Completed an exercise getting a photo from one API and news articles from NY Times API 😎.
+
+**Thoughts:** AJAX is super cool. Using XHR objects to retrieve data from two different apps and create related image / articles based on a query was awesome. Excited to do more with this.
+
+**Link to work:** [Promise Practice](https://github.com/lourod1987/practice-promises)
+
