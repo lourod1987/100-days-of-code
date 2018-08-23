@@ -759,5 +759,13 @@
 
 **Thoughts:** AJAX is super cool. Using XHR objects to retrieve data from two different apps and create related image / articles based on a query was awesome. Excited to do more with this.
 
-**Link to work:** [Promise Practice](https://github.com/lourod1987/practice-promises)
+**Link to work:** [AJAX Practice](https://github.com/lourod1987/course-ajax)
 
+
+### Day 84: August 22, 2018
+
+**Today's Progress**: Additonal AJAX practice. Using jQuery's $.ajax() method to interact with API's and the wonderful fetch API which works with Promises.
+
+**Thoughts:** It was fun and I feel like I have a solid grasp on working with API's now. Which definitely gives me access to in uncountable number of resources and the ability to create resource rich applications.
+
+**Link to work:** [AJAX Practice](https://github.com/lourod1987/course-ajax)
