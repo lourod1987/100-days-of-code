@@ -769,3 +769,14 @@
 **Thoughts:** It was fun and I feel like I have a solid grasp on working with API's now. Which definitely gives me access to in uncountable number of resources and the ability to create resource rich applications.
 
 **Link to work:** [AJAX Practice](https://github.com/lourod1987/course-ajax)
+
+
+
+### Day 85: September 4, 2018
+
+**Today's Progress**: Created a JAMstack app and learning more about JAMstack technologies, practices, and listening JAMstack speakers. More Angular too
+
+**Thoughts:** :The past week I did not post was filled with backbonejs, angular, reading articles and documentation on a variety of web dev topics. Today was a lot of studying of the JAMstack and continuing my work on studying AngularJS. Even though I did not post a week I was working. One day I did not have internet, then I got sick, and it was all I could do to focus on getting some coding done when I had the chance.
+
+**Link to work:** [Angular Controller Practice](https://github.com/lourod1987/FEF-Quiz-Angular-Controllers)
+
