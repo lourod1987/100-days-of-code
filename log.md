@@ -776,7 +776,24 @@
 
 **Today's Progress**: Created a JAMstack app and learning more about JAMstack technologies, practices, and listening JAMstack speakers. More Angular too
 
-**Thoughts:** :The past week I did not post was filled with backbonejs, angular, reading articles and documentation on a variety of web dev topics. Today was a lot of studying of the JAMstack and continuing my work on studying AngularJS. Even though I did not post a week I was working. One day I did not have internet, then I got sick, and it was all I could do to focus on getting some coding done when I had the chance.
+**Thoughts:** The past week I did not post was filled with backbonejs, angular, reading articles and documentation on a variety of web dev topics. Today was a lot of studying of the JAMstack and continuing my work on studying AngularJS. Even though I did not post a week I was working. One day I did not have internet, then I got sick, and it was all I could do to focus on getting some coding done when I had the chance.
 
 **Link to work:** [Angular Controller Practice](https://github.com/lourod1987/FEF-Quiz-Angular-Controllers)
 
+
+### Day 86: September 5, 2018
+
+**Today's Progress**: Learning about Angular templates/views, controllers, and directives. 
+
+**Thoughts:** More time practicing with Angular. Some of the concepts are nearly within my grasp of having a firm understanding on them. Some more practice and I'll get it down. Definitely creating my own project in Angular will get me there.
+
+**Link to work:** [Angular Directives Practice](https://github.com/lourod1987/FEF-Quiz-Angular-Directives)
+
+
+### Day 87: September 6, 2018
+
+**Today's Progress**: Learning about Angular services and routers.
+
+**Thoughts:** Definitely a little tough to wrap my head around but it is definitely amazingly powerful. The ability to cut down code work and smoothly connect differing aspects of an application is amazing. Angular apps run like magic. I really love the power at the disposal of the developer to create powerful front-end applications.
+
+**Link to work:** [Angular Router Practice](https://github.com/lourod1987/FEF-Quiz-Angular-Routing)
