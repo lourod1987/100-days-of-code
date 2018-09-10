@@ -797,3 +797,30 @@
 **Thoughts:** Definitely a little tough to wrap my head around but it is definitely amazingly powerful. The ability to cut down code work and smoothly connect differing aspects of an application is amazing. Angular apps run like magic. I really love the power at the disposal of the developer to create powerful front-end applications.
 
 **Link to work:** [Angular Router Practice](https://github.com/lourod1987/FEF-Quiz-Angular-Routing)
+
+
+### Day 88: September 7, 2018
+
+**Today's Progress**: Offline first by using Service Workers. Learninging the benefits of offline programming and testing service worker caching with JS.
+
+**Thoughts:** It is pretty interesting to see how some of this stuff works and I now realize that this is what modern Progressive Web Apps are built off of.
+
+**Link to work:** [Service Worker Practice](https://github.com/lourod1987/wittr/tree/task-register-sw)
+
+
+### Day 89: September 8, 2018
+
+**Today's Progress**: Additional work on Service workers. Coded more cache retrieval with a fetch api that will bring up a gif when the page doesn't load.
+
+**Thoughts:**  Now understanding how FB shows me data even when I'm not connected is really cool. I now have a fundamental understanding of how that works and why it's important even from my own personal experiences.
+
+**Link to work:** [Service Worker Practice](https://github.com/lourod1987/wittr/tree/task-register-sw)
+
+
+### Day 90: September 9, 2018
+
+**Today's Progress**: Finishing up the service worker lesson. Coded JS retrievals of a skeleton through the web page and offering the user to update to the latest version of the app by checking if a newer service worker exists and has already been activated.
+
+**Thoughts:** It is pretty awesome to see how promises, fetch, service worker, and cache API are all interconnected to achieve some really powerful functionality for web based apps. I'm excited to put this to use in the upcoming project and projects of my own.
+
+**Link to work:** [Service Worker Practice](https://github.com/lourod1987/wittr/tree/task-register-sw)
